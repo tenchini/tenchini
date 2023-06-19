@@ -19,6 +19,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tenchini/count.svg?"  />
+</div>
+
+###
+
 <h3 align="left">🌙 | Sobre mim:</h3>
 
 ###
@@ -45,12 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tenchini/count.svg?"  />
 </div>
 
 ###
