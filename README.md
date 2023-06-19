@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Me chamo Vinícius Tenchini e atualmente moro em Itaguaí, RJ. Sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>Estou realizando uma transição de carreira e me aprofundando no mundo da tecnologia e desenvolvimento, uma escolha que hoje em dia parece óbvia para mim. Desde pequeno, sou apaixonado por computadores, internet e por aprender coisas novas.<br><br>No meu tempo livre, dedico-me aos estudos por conta própria, com foco nas tecnologias destacadas logo abaixo. 😉</p>
+<p align="left">Me chamo Vinícius Tenchini e atualmente moro em Itaguaí, RJ. Sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>Estou realizando uma transição de carreira e me aprofundando no mundo da tecnologia e desenvolvimento, uma escolha que hoje em dia parece óbvia para mim. Desde pequeno, sou apaixonado por computadores, internet e por aprender coisas novas.<br><br>No meu tempo livre, me dedico aos estudos por conta própria, com foco nas tecnologias destacadas logo abaixo. 😉</p>
 
 ###
 
