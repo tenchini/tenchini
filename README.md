@@ -69,11 +69,9 @@ Tenho interesse em atuar como Desenvolvedor Back-end. Já acumulo experiência c
   </tbody>
 </table>
 
-## ⚙️ | GitHub Status:
-<div>
-<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tenchini&show_icons=true&theme=tokyonight"/> -->
+<!-- <div> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tenchini&show_icons=true&theme=tokyonight"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenchini&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 
 ###
