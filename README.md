@@ -27,7 +27,7 @@ Tenho interesse em atuar como Desenvolvedor Back-end. Já acumulo experiência c
 
 ###
 
-<h3 align="left">📚 | O que estou estudando agora?</h3>
+<h3 align="left">📚 | Tecnologias:</h3>
 
 ###
 
