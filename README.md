@@ -17,7 +17,7 @@
 
 Carioca, apaixonado por açaí, jogos e hater de calor. 
 
-Em 2022, tive meu primeiro contato com a programação e, em 2023, iniciei meus estudos de Análise e Desenvolvimento de Sistemas na [Estácio](https://estacio.br/) e também fui selecionado entre mais de 40 mil candidatos para o programa de [Desenvolvimento de Software Backend](https://cubos.academy/lp/1000bolsasifood) pela [Cubos Academy](https://cubos.academy/) em parceria com [iFood](https://www.news.ifood.com.br/ifood-oferece-1-000-bolsas-para-curso-de-programacao/) e [Potência Tech](https://potenciatech.com.br/play/text/14790799/detalhe)!
+Em 2022, tive meu primeiro contato com a programação e, em 2023, iniciei meus estudos de Análise e Desenvolvimento de Sistemas na [Estácio](https://estacio.br/). Além disso, fui selecionado entre mais de 40 mil candidatos para o programa de [Desenvolvimento de Software Backend](https://cubos.academy/lp/1000bolsasifood) pela [Cubos Academy](https://cubos.academy/) em parceria com [iFood](https://www.news.ifood.com.br/ifood-oferece-1-000-bolsas-para-curso-de-programacao/) e [Potência Tech](https://potenciatech.com.br/play/text/14790799/detalhe)!
 
 Busco uma oportunidade como Desenvolvedor Back-end, tenho experiência com Node.js, Python, PostgreSQL, Git e GitHub, Docker e MySQL. Estou ansioso para aprender e contribuir com projetos inovadores, e quero muito me aventurar em novas linguagens, tecnologias , ferramentas e frameworks.</p>
 
