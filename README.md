@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/viniciustenchini/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -73,16 +71,19 @@ Busco uma oportunidade como Desenvolvedor Back-end, tenho experiência com Node.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenchini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> -->
 
-
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tenchini.tenchini&right_color=black&left_text=Visitantes"  />
-</div>
+[![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenchini&theme=github_dark)](https://github.com/tenchini)
 
 ###
 
 <div align="left">
   <img height="150" src="https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tenchini.tenchini&right_color=black&left_text=Visitantes"  />
 </div>
 
