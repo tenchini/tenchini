@@ -84,6 +84,6 @@ Busco uma oportunidade como Desenvolvedor Back-end, tenho experiência com Node.
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tenchini.tenchini&right_color=black&left_text=Visitantes"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tenchini.tenchini&right_color=black&left_text=Visitantes"  />
 </div>
 
