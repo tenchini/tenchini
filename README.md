@@ -52,7 +52,7 @@ to_learn = ["Hibernate", "Docker", "Tests", "RabbitMQ", "Logging"]
 ```
 
 ```yaml
-I solved the oldest question in the world with a single line of code::
+I solved the oldest question in the world with a single line of code:
 
 console.log(['🥚', '🐔'].sort())
 
