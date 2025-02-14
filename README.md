@@ -4,7 +4,7 @@
 about me:
   I’m a Software Engineering student with backend development experience from an iFood bootcamp.
   I’ve worked on building and optimizing web applications, focusing on backend services and APIs.
-  Right now, I’m focusing on Java and Spring Boot, and I’m also studying Python because I really enjoy the language.
+  Right now, I’m focusing on Java/Spring Boot, and I’m also studying Python because I really enjoy the language.
 ```
 
 
