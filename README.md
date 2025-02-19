@@ -10,8 +10,8 @@
 
 ```yaml
 about me:
-As a Software Engineering student, I’ve gained backend development experience through an iFood bootcamp, where
-I worked on building and optimizing web applications, with a strong focus on backend services and REST APIs.
+As a Software Engineering student, I’ve gained backend development experience through an iFood bootcamp,
+where I worked on building and optimizing web applications, with a strong focus on backend services and REST APIs.
 
 Currently, I’m studying Java and Spring Boot, while occasionally learning Python, a language I enjoy.
 ```
