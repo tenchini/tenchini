@@ -1,10 +1,19 @@
-### <p style="font-family: monospace; color: black;" align="center">🔁 Code. Learn. Repeat.</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=70ED86&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Hello+World!+👋;+I'm+Vinicius+Tenchini!;" />
+</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/viniciustenchini/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-151B23?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn" width="125"/></a>
+<a href="mailto:viniciustenchi@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-151B23?logo=gmail&logoColor=70ED86&style=for-the-badge" alt="Email" width="120"/>
+</a>
+</p>
 
 ```yaml
 about me:
-  I’m a Software Engineering student with backend development experience from an iFood bootcamp.
-  I’ve worked on building and optimizing web applications, focusing on backend services and APIs.
-  Right now, I’m focusing on Java/Spring Boot, and I’m also studying Python because I really enjoy the language.
+As a Software Engineering student, I’ve gained backend development experience through an iFood bootcamp, where
+I worked on building and optimizing web applications, with a strong focus on backend services and REST APIs.
+
+Currently, I’m studying Java and Spring Boot, while occasionally learning Python, a language I enjoy.
 ```
 
 
@@ -12,12 +21,9 @@ about me:
 <table align="center">
     <tr>
         <td style="width: 30%; vertical-align: middle;">
-            <img src="https://s13.gifyu.com/images/b2d1W.gif">
+            <img src="https://i.gifer.com/6vIk.gif">
         </td>
         <td style="width: 90%; align: center;">
-
-<p style="font-family: monospace; font-size: 80px; color: black;">
-
 
 ```yaml
 tenchini:
@@ -33,7 +39,6 @@ tenchini:
 🎓 status: Software Engineering Student.
 😄 pronouns: He/Him.
 ⚡ fun fact: Despite being from Rio de Janeiro, I can't stand the heat.
-📨 contact: viniciustenchi@gmail.com
 ```
 
 </td> </tr> </table>
@@ -47,17 +52,21 @@ tools = ["Python", "JavaScript", "Node.js", "PostgreSQL", "Git"]
 learning = ["Java", "Spring Boot", "FastAPI"]
 ```
 ```yaml
-📌 Toools to learn:
+📌 Tools to learn:
 to_learn = ["Hibernate", "Docker", "Tests", "RabbitMQ", "Logging"]
 ```
 
-```yaml
-I solved the oldest question in the world with a single line of code:
+<details>
+  <summary>❓🕵️🔍</summary>
 
-console.log(['🥚', '🐔'].sort())
+  ```javascript
+  //  I solved the oldest question in the world with a single line of code:
+  console.log(['🥚', '🐔'].sort())
 
->>> [ '🐔', '🥚' ]
+  >>> [ '🐔', '🥚' ]
 ```
+</details>
+
 
 <!-- <div align="center"> <br/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenchini&theme=dark&show_icons=true&hide_border=true&layout=compact"/></div> -->
 
