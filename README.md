@@ -1,7 +1,8 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Hello+World!+👋;+I'm+Vinicius+Tenchini!;" />
-</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Ol%C3%A1+Mundo%21+%F0%9F%91%8B;" />
 
+</h2>
+ 
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciustenchini/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-151B23?logo=LinkedIn&logoColor=FFFFFF&style=for-the-badge" alt="LinkedIn" width="125"/></a>
 <a href="mailto:viniciustenchi@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-151B23?logo=gmail&logoColor=FFFFFF&style=for-the-badge" alt="Email" width="120"/>
