@@ -10,12 +10,7 @@
 </p>
 
 <h3> Sobre mim: </h3>
-<p>Sou estudante de Engenharia de Software e tive minha primeira experiência com desenvolvimento backend em um bootcamp do iFood, onde trabalhei criando e otimizando aplicações web, especialmente no desenvolvimento de APIs REST e serviços backend.</p>
-
-<p>Atualmente, estou me aprofundando em desenvolvimento full-stack através de dois bootcamps: <br>
-  
-- **Bootcamp Dev. Full-Stack Jr. (uma parceria da +PraTi com a Codifica Edu)**, com foco em desenvolvimento web front e back-end, trabalhando com HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java, Spring Boot e outras tecnologias.
-- **Bootcamp AvanTI (do Instituto Atlântico)**, também com foco full-stack, mas usando JavaScript em todo o stack (React para front-end e Node.js para back-end).</p>
+<p>Sou estudante de Engenharia de Software e tive minha primeira experiência com desenvolvimento backend em um bootcamp do iFood, onde trabalhei criando e otimizando aplicações web, especialmente no desenvolvimento de APIs REST e serviços backend.</p> <p>Atualmente, estou me aprofundando em desenvolvimento full-stack por meio do curso<strong> Dev. Full-Stack Jr.</strong> do +PraTi e Codifica Edu, com foco em desenvolvimento web front e back-end. Tenho trabalhado com tecnologias como HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java, Spring Boot, entre outras.</p>
 
 
 
@@ -29,7 +24,7 @@
 
 <p>🌱 Atualmente estudando:
 
-  - Java & Spring Boot
+  - HTML, CSS, React, Java & Spring Boot
 
   - Explorando novas ferramentas e melhores práticas
 
