@@ -12,10 +12,7 @@
 <h3> Sobre mim: </h3>
 <p>Sou estudante de Engenharia de Software e tive minha primeira experiência com desenvolvimento backend em um bootcamp do iFood, onde trabalhei criando e otimizando aplicações web, especialmente no desenvolvimento de APIs REST e serviços backend.</p> <p>Atualmente, estou me aprofundando em desenvolvimento full-stack por meio do curso<strong> Dev. Full-Stack Jr.</strong> do +PraTi e Codifica Edu, com foco em desenvolvimento web front e back-end. Tenho trabalhado com tecnologias como HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java, Spring Boot, entre outras.</p>
 
-
-
-
-<table align="center">
+<!-- <table align="center">
     <tr>
         <td style="width: 30%; vertical-align: middle;">
             <img src="https://i.gifer.com/6vIk.gif">
@@ -35,7 +32,9 @@
 ⚡ Curiosidade: Mesmo sendo carioca, não suporto o calor!</p>
 
 
-</td> </tr> </table>
+</td> </tr> </table> -->
+
+---
 
 <p>
 🛠️ Ferramentas que mais uso: 
@@ -67,8 +66,6 @@
 ```
 </details>
 
-
-<div align="center"> <br/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenchini&theme=dark&show_icons=true&hide_border=false&layout=compact"/></div>
 
 
 
