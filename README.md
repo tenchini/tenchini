@@ -1,5 +1,3 @@
-<h2></h2>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciustenchini/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-151B23?logo=LinkedIn&logoColor=FFFFFF&style=for-the-badge" alt="LinkedIn" width="125"/></a>
 <a href="mailto:viniciustenchi@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-151B23?logo=gmail&logoColor=FFFFFF&style=for-the-badge" alt="Email" width="120"/>
@@ -30,5 +28,3 @@
 </p>
 
 </div>
-
-<h2></h2>
