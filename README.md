@@ -1,72 +1,34 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Ol%C3%A1+Mundo%21+%F0%9F%91%8B;" />
+<h2></h2>
 
-</h2>
- 
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciustenchini/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-151B23?logo=LinkedIn&logoColor=FFFFFF&style=for-the-badge" alt="LinkedIn" width="125"/></a>
 <a href="mailto:viniciustenchi@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-151B23?logo=gmail&logoColor=FFFFFF&style=for-the-badge" alt="Email" width="120"/>
 </a>
 </p>
 
+<h2></h2>
+
+
 <h3> Sobre mim: </h3>
-<p>Sou estudante de Engenharia de Software e tive minha primeira experiência com desenvolvimento backend em um bootcamp do iFood, onde trabalhei criando e otimizando aplicações web, especialmente no desenvolvimento de APIs REST e serviços backend.</p> <p>Atualmente, estou me aprofundando em desenvolvimento full-stack por meio do curso<strong> Dev. Full-Stack Jr.</strong> do +PraTi e Codifica Edu, com foco em desenvolvimento web front e back-end. Tenho trabalhado com tecnologias como HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java, Spring Boot, entre outras.</p>
+<p>Me chamo Vinicius Tenchini e sou um estudante de engenharia de software fascinado por curiosidades aleatórias e por entender como as coisas funcionam. Tive minha primeira experiência prática em um bootcamp do iFood e hoje foco em construir projetos do início ao fim. Fora do código, aproveito meu tempo com minha namorada, minha família e meus gatos, seja assistindo a séries e vídeos ou jogando um pouco.</p>
 
-<!-- <table align="center">
-    <tr>
-        <td style="width: 30%; vertical-align: middle;">
-            <img src="https://i.gifer.com/6vIk.gif">
-        </td>
-        <td style="width: 90%; align: center;">
+<h2></h2>
 
-<p>🌱 Atualmente estudando:
+<div align="center">
 
-  - HTML, CSS, React, Java & Spring Boot
-
-  - Explorando novas ferramentas e melhores práticas
-
-🎓 Status: Estudante de Engenharia de Software
-
-😄 Pronomes: Ele/Dele
-
-⚡ Curiosidade: Mesmo sendo carioca, não suporto o calor!</p>
-
-
-</td> </tr> </table> -->
-
----
-
+<h3> Ferramentas:</h3>
 <p>
-🛠️ Ferramentas que mais uso: 
+   <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,git,github,linux&theme=dark" alt="Current Stack" />
+</p>
+
+<h3>Aprendendo agora:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,jest,docker&theme=dark" alt="Learning" />
   <br>
-  - Node.js, Java, PostgreSQL, Git, Github, VSCode, IntelliJ.
+  <sub>Estudando no momento: <a href="https://curso.dev" target="_blank">curso.dev</a> do @filipedeschamps &amp; <a href="https://www.origamid.com" target="_blank">origamid.com</a> do @origamid</sub>
+
 </p>
 
-<p>
-📚 Ferramentas que estou aprendendo:
-  <br>  
-  - HTML, CSS, JavaScript, React, Java, Spring Boot.
-</p>
+</div>
 
-<p>
-🚀 O que quero aprender:
-  <br>  
-  - Hibernate, Docker, Testes automatizados, RabbitMQ, Logging e monitoramento...
-</p>
-
-
-<details>
-  <summary>❓🕵️🔍</summary>
-
-  ```javascript
-  // Resolvi o problema mais antigo do mundo com uma única linha de código:
-  console.log(['🥚', '🐔'].sort())
-
-  >>> [ '🐔', '🥚' ]
-```
-</details>
-
-
-
-
-
+<h2></h2>
