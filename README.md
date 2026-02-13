@@ -6,6 +6,8 @@
 
 <h2></h2>
 
+<br>
+
 <p>Me chamo Vinicius Tenchini e sou um estudante de engenharia de software fascinado por curiosidades aleatórias e por entender como as coisas funcionam. Tive minha primeira experiência prática em um bootcamp do iFood e hoje foco em construir projetos do início ao fim. Fora do código, aproveito meu tempo com minha namorada, minha família e meus gatos, seja assistindo a séries e vídeos ou jogando um pouco.</p>
 
 <h2></h2>
