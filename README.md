@@ -23,7 +23,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,jest,docker&theme=dark" alt="Learning" />
   <br>
-  <sub>Estudando no momento: <a href="https://curso.dev" target="_blank">curso.dev</a> do @filipedeschamps &amp; <a href="https://www.origamid.com" target="_blank">origamid.com</a> do @origamid</sub>
 
 </p>
 
